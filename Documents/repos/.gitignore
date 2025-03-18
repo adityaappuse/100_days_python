@@ -1,0 +1,14 @@
+# Ignore system files and logs
+*.log
+*.dat
+.DS_Store
+*.ini
+*.pbix
+*.csv
+*NTUSER*
+*/AppData/
+*/Desktop/
+*/Downloads/
+*/Music/
+*/Videos/
+*/OneDrive/
