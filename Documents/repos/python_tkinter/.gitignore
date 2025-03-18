@@ -1,0 +1,14 @@
+# Ignore system files
+AppData/
+Desktop/
+Downloads/
+OneDrive/
+NTUSER.*
+*.log
+*.ini
+*.pbix
+*.sql
+*.csv
+.ssh/
+.vscode/
+
