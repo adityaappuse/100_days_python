@@ -12,3 +12,12 @@ NTUSER.*
 .ssh/
 .vscode/
 
+.*
+*/
+Desktop/
+AppData/
+Downloads/
+NTUSER.DAT*
+*.pbix
+*.csv
+*.sql
