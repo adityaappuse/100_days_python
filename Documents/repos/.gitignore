@@ -12,3 +12,16 @@
 */Music/
 */Videos/
 */OneDrive/
+*.log
+*.dat
+.DS_Store
+*.ini
+*.pbix
+*.csv
+*NTUSER*
+*/AppData/
+*/Desktop/
+*/Downloads/
+*/Music/
+*/Videos/
+*/OneDrive/
